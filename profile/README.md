@@ -8,4 +8,4 @@ A modern view of US Congress.
 
 ## Roadmap
 
-[See the lineup for new features and improvements.](https://github.com/orgs/CongressWiki/projects/1)
+[See the lineup of new features and improvements.](https://github.com/orgs/CongressWiki/projects/1)
