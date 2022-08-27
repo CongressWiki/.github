@@ -4,7 +4,7 @@ A modern view of US Congress.
 
 ## What is Congress.wiki?
 
-Congress.wiki is a website built to present US Congressional data in a format that is accessible to modern day users.
+Congress.wiki is a webapp built to present US Congressional data in a format that is accessible to everyday users.
 
 ## Roadmap
 
